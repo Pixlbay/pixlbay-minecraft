@@ -1,0 +1,6 @@
+name: pixlbay
+main: io.pixlbay.pixlbay.Plugin
+version: 1.0.0
+api-version: 1.15
+authors: ['Pixlbay.io']
+description: 'A simple plugin to restart monitoring on Pixlbay.io'
